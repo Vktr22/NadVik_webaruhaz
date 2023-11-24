@@ -1,3 +1,14 @@
 body {
     background-color: rgb(205, 193, 174)
 };
+
+
+nav ul {
+    margin: auto;
+    max-width: 1000px;
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    gap: 5px;
+  };
